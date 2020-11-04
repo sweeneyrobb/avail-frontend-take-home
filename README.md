@@ -18,12 +18,12 @@ Avail uses a vehicle category when a customer creates a booking on our website. 
 category versus the actual vehicle removes complexity for the customer. Internally we use
 vehicle category to help with inventory management.
 
+Listings are vehicles that have been shared by their owners for sharing on the Avail platform.
+
 When bookings come into our system a lot administrator will eventually pair a booking with an
 actual listing. Lot administrators work at our physical locations and are responsible many things.
 One of those responsibilities is ensuring that bookings are satisfied and proper inventory is
 always reflected on our website.
-
-Listings are vehicles that have been shared by their owners for sharing on the Avail platform.
 
 Story
 -----
